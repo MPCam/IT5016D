@@ -1,3 +1,4 @@
+# while loop
 name = ''
 
 while len(name) == 0:
