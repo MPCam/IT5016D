@@ -1,3 +1,4 @@
+# ways to print to console
 print("\t\t\tFancy Credits")
 
 print("\t\t\t \\ \\ \\ \\ \\ \\ \\")
