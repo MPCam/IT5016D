@@ -1,3 +1,4 @@
+#counter
 score = 4
 
 def get_new_score(param_score):
