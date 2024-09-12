@@ -1,3 +1,4 @@
+# variable being set to user input
 print('Welcome to your first data entry program\n')
 user_name = input('Please enter your name...\n')
 user_yob = int(input('Please enter your year of birth...\n'))
