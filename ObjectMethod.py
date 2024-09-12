@@ -1,3 +1,4 @@
+# creating objects from a class
 class Person:
     def __init__ (self, age, gender):
         self.age = age
