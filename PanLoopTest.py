@@ -1,3 +1,4 @@
+# counter
 times_to_clean = 4
 
 #boolean while loop with if/else
