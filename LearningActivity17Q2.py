@@ -7,6 +7,7 @@ y = 7
 z = 34.7
 add = x+y+z
 
+# adding x, y, z than type checking
 print(add)
 print(type(x))
 print(type(y))
