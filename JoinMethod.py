@@ -1,3 +1,4 @@
+# join method for string
 string_1 = "Hello World"
 
 print("Using the join method to add a : between every char...\n {0}"
