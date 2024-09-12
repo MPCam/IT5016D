@@ -1,3 +1,4 @@
+# booelan True False tests
 print ('Test 1', bool(True))
 print ('Test 2', bool(False))
 print ('Test 3', bool('text'))
