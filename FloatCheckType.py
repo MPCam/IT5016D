@@ -1,3 +1,4 @@
+# type checking
 x = 5.2
 y = -105.06
 z = 12e3
