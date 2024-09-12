@@ -1,12 +1,17 @@
+# importing datetime and timedelta
 from datetime import datetime
 from datetime import timedelta
 
+# input for DOB
 date_input = input('Please enter your DOB in the format DD MMM YYYY: \n')
 
+# formatting
 date_object = datetime.strptime(date_input, '%d %b %Y')
 
+#output
 print('The year entered is', date_object.year, '\n')
 
+# calculation from input and todays date
 my_age = datetime.today() - date_object
 
 print('My exact age is', my_age, '\n')
