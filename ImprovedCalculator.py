@@ -1,3 +1,4 @@
+# function for calculation
 def do_calculation(user_input):
     #variable to store result
     calculated_answer = int
