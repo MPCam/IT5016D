@@ -5,6 +5,7 @@
 temperature = input('Please enter fahrenheit or celsius\n')
 print('You inputted ',temperature)
 
+# calculation and display depending on user input
 if temperature == 'fahrenheit':
     number = int(input('Please enter number to convert\n'))
     print('You inputted ', number)
