@@ -1,5 +1,6 @@
 times_to_clean = 4
 
+#boolean while loop with if/else
 while True:
     answer = input('Is pan clean?\n')
     if answer == 'yes':
