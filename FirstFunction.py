@@ -1,3 +1,4 @@
+# showing how a function can be repeatedly called
 def show_hello():
     print('Hello there, this is my very first function!!!\n\n')
 
