@@ -1,4 +1,4 @@
-
+# index a string
 string_1 = "Whanau!"
 
 print("The third letter in this string is {0}.\n".format(string_1[2]))
