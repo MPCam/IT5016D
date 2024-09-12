@@ -7,6 +7,7 @@ my_size = 8.5
 print('My shoe size is ', my_size, '\n\n'
       'The data type is ', type(my_size))
 
+# changing from float to integer
 my_size = int(my_size)
 
 print('\nChanging the data type...\n')
